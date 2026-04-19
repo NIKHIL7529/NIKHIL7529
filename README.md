@@ -30,7 +30,6 @@ Software Development Engineer building production-grade AI systems, full-stack p
 
 ### 📊 GitHub Stats
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL7529&hide_border=true&theme=minimal)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL7529&layout=compact&theme=default&hide_border=true)
 
 ---
