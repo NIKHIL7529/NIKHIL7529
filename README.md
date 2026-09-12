@@ -116,12 +116,6 @@ I'm particularly interested in:
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL7529\&layout=compact\&theme=default\&hide_border=true)
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nikhil-gupta-66b02522a/)
